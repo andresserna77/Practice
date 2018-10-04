@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Title of your feature" skipped="0" tests="1" time="24.01" timestamp="2018-10-04T15:55:54.028-05:00[America/Bogota]"><testcase name="Title of your scenario"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+practice.steps.PracticeFillFormSteps.fillinform(PracticeFillFormSteps.java:32)&#13;
+practice.definition.PracticeDefinition.fill_in_formulary(PracticeDefinition.java:34)&#13;
+✽.When Fill in formulary(src/test/resources/features/practice.feature:27)&#13;
+</system-err></testcase></testsuite>
